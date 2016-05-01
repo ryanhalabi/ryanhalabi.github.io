@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Webscraping AllRecipes.com with Python
+title: Analyzing AllRecipes.com
 ---
 
 When you're looking to enter the field of Data Science, one of the things hammered into you is the importance of having projects you can present and discuss with employers.  One of the ways to accomplish this is to work with a Kaggle data set to demonstrate your skills in machine learning.
