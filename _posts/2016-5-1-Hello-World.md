@@ -14,7 +14,7 @@ Over the past few months I've struggled to find a project that could satisfy the
 
 Interestingly enough, it was the third point that proved the hardest.  In the past month however I finally discovered my true calling, analyzing allrecipes.com!i
 
-While this is something that has already been done ([a link][1] [1]:http://www.princeton.edu/~jmcohen/recipe-recommendation.pdf"Link").  I feel the it satisfies the above criteria.  
+While this is something that has already been [done](http://www.princeton.edu/~jmcohen/recipe-recommendation.pdf).  I feel the it satisfies the above criteria.  
 
 My plan is
 1. Collection user and recipe data
