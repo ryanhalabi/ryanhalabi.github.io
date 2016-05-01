@@ -3,11 +3,11 @@ layout: post
 title: Analyzing AllRecipes.com
 ---
 
-When you're looking to enter the field of Data Science, one of the things hammered into you is the importance of having projects you can present and discuss with employers.  One of the ways to accomplish this is to work with a Kaggle data set to demonstrate your skills in machine learning.
+While looking for a job in Data Science, one of the things hammered into me is the importance of having projects you can present and discuss with employers.
 
-While Kaggle problems are by no means trivial, the attitudes of people from industry seem to be a bit dismissive.  Data Scientists seem to spend the majority of their time getting the data they need and processing it into a usable format with applying machine learning algorithms being the last step.
+While I’ve worked on Kaggle problems in the past, the attitudes of people from industry seem to be a bit dismissive.  Data Scientists seem to spend the majority of their time getting the data they need and processing it into a usable format with applying machine learning algorithms being the last step, this is the inverse of the Kaggle problem set up.
 
-Over the past few months I've struggled to find a project that could satisfy the following requirements:
+Keeping this in mind, I've struggled to find a project that could satisfy the following requirements:
 
 * Nontrivial data collection 
 
@@ -15,7 +15,7 @@ Over the past few months I've struggled to find a project that could satisfy the
 
 * Something I could be passionate about
 
-Interestingly enough, it was the third point that proved the hardest.  In the past month however I finally discovered my true calling, analyzing allrecipes.com!
+Interestingly enough, it was the third point that proved the hardest to satisfy.  In the end, it was my baser desires for food that led me to my project: analyze all recipes.com.
 
 My plan is
 
