@@ -16,7 +16,8 @@
 <p class="p1"><span class="s1">--- layout: default ---</span></p>
 <p class="p1"><span class="s1">{% for post in site.posts %}</span></p>
 <h1 style="margin: 0.0px 0.0px 14.9px 0.0px; line-height: 22.0px; font: 18.0px Times; color: #0000ee; -webkit-text-stroke: #0000ee"><span class="s2"><a href="file:///Users/ryan/Desktop/ryanhalabi.github.io/%7B%7B%20site.baseurl%20%7D%7D%7B%7B%20post.url%20%7D%7D"><b>{{ post.title }}</b></a></span></h1>
-<p class="p1"><span class="s1">{{ post.content}} <span class="Apple-converted-space"> </span></span></p>
-<p class="p1"><span class="s1">{% endfor %}<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">{{ content }}</span></p>
+<p class="p1"><span class="s1">Written on {{ page.date | date: "%B %e, %Y" }}</span></p>
+<p class="p1"><span class="s1">{% include disqus.html %}</span></p>
 </body>
 </html>
