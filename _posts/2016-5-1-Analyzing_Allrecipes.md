@@ -17,7 +17,7 @@ Keeping this in mind, I've struggled to find a project that could satisfy the fo
 
 Interestingly enough, it was the third point that proved the hardest to satisfy.  In the end, it was my baser desires for food that led me to my project: analyzing allrecipes.com.
 
-My plan is
+My plan is to
 
 1. Collection user and recipe data
 
