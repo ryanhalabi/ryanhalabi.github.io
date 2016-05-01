@@ -20,8 +20,8 @@ My plan is
 1. Collection user and recipe data
 2. Store it appropriately
 3. Create visualizations
-4) Applying machine learning
-5) Produce a WebApp
+4. Applying machine learning
+5. Produce a WebApp
 
 
 So far I've only tackled step 1, but like any legit Data Scientist would say, thats the hard part right?
