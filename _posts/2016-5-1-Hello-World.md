@@ -20,10 +20,15 @@ Interestingly enough, it was the third point that proved the hardest.  In the pa
 While this is something that has already been [done](http://www.princeton.edu/~jmcohen/recipe-recommendation.pdf).  I feel the it satisfies the above criteria.  
 
 My plan is
+
 1. Collection user and recipe data
+
 2. Store it appropriately
+
 3. Create visualizations
+
 4. Applying machine learning
+
 5. Produce a WebApp
 
 
