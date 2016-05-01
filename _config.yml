@@ -6,11 +6,10 @@
 name: Ryan Halabi
 
 # Short bio or description (displayed in the header)
-description: Applied Math PhD excited about Data Science.
+description: 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-
+avatar: /images/me_and_her.jpg
 #
 # Flags below are optional
 #
