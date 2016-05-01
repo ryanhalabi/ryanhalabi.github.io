@@ -15,9 +15,7 @@ Over the past few months I've struggled to find a project that could satisfy the
 
 * Something I could be passionate about
 
-Interestingly enough, it was the third point that proved the hardest.  In the past month however I finally discovered my true calling, analyzing allrecipes.com!i
-
-While this is something that has already been [done](http://www.princeton.edu/~jmcohen/recipe-recommendation.pdf).  I feel the it satisfies the above criteria.  
+Interestingly enough, it was the third point that proved the hardest.  In the past month however I finally discovered my true calling, analyzing allrecipes.com!
 
 My plan is
 
